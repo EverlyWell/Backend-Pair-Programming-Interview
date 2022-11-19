@@ -11,7 +11,7 @@ Question.create(
   answer: 'You will get tailored suggestions on what to do next.'
 )
 
-# Food Sensitivity Test
+# Food Sensitivity Comprehensive Test
 product = Product.create(name: 'Food Sensitivity Comprehensive Test')
 product.questions.create(
   label: 'How does this test work?',
