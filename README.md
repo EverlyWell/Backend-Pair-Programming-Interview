@@ -1,28 +1,21 @@
 # Backend-Pair-Programming-Interview
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Dependencies
 
-Things you may want to cover:
+| Name  | Version |
+|-------|---------|
+| Ruby  | 2.7.6   |
+| Rails | 7.0.4   |
 
-* Ruby version
 
-* System dependencies
+## Setup
 
-* Configuration
-
-* Database creation
+Clone this project locally. In your terminal, `cd` to the root of the project and run:
 
       bin/setup
 
-* Database initialization
+## Tests
 
-* How to run the test suite
+In the project root directory run:
 
       bin/rspec
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
