@@ -27,4 +27,4 @@ If you change the seed file and wish to seed the database from scratch, run:
 
 In the project root directory run:
 
-      bin/rspec
+    bin/rspec
