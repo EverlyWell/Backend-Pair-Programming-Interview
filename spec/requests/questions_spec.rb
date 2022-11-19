@@ -1,8 +1,8 @@
 require 'rails_helper'
 
 RSpec.describe "/questions", type: :request do
-  let(:valid_attributes) { { answer: 'Some say 42', label: "What's the meaning of life?" } }
-  let(:invalid_attributes) { { answer: 'hi', labels: '' } }
+  let(:valid_attributes) { { label: "What's the meaning of life?", answer: 'Some say 42' } }
+  let(:invalid_attributes) { { label: '', answer: 'hi' } }
   let(:valid_headers) { {} }
 
   describe "GET /index" do
