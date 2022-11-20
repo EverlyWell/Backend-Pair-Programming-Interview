@@ -50,3 +50,9 @@ erDiagram
         bigint question_id FK
     }
 ```
+
+| Model          | Description                                                |
+|----------------|------------------------------------------------------------|
+| Product        | An item that can be sold on the website                    |
+| ProductQuetion | Join table for Products and Questions                      |
+| Question       | A general question or a question associated with a product |
