@@ -1,5 +1,8 @@
 # Backend-Pair-Programming-Interview
 
+The repo is the beginning of a FAQ feature for an ecommerce site. It ties FAQ questions to products, such that product
+pages can display these questions and answers below the product info.
+
 ## Dependencies
 
 | Name  | Version |
