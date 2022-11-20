@@ -29,6 +29,13 @@ In the project root directory run:
 
     bin/rspec
 
+## Endpoints
+
+| HTTP Method | Endpoint   | Description           |
+|-------------|------------|-----------------------|
+| GET         | /questions | List of all questions |
+| POST        | /questions | Add a new question    |
+
 ## Data Model Diagram
 
 ```mermaid
