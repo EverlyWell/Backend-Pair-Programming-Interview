@@ -5,10 +5,11 @@ pages can display these questions and answers below the product info.
 
 ## Dependencies
 
-| Name  | Version |
-|-------|---------|
-| Ruby  | 2.7.6   |
-| Rails | 7.0.4   |
+| Name       | Version |
+|------------|---------|
+| Ruby       | 2.7.6   |
+| Rails      | 7.0.4   |
+| PostgreSQL | 14.5    |
 
 ## Setup
 
