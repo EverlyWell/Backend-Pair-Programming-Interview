@@ -3,7 +3,7 @@
 The repo is the beginning of a FAQ feature for an ecommerce site. It ties FAQ questions to products, such that product
 pages can display these questions and answers below the product info.
 
-Please look at the depencies list below and ensure you have them installed locally. Take a look at the `Gemfile` and `.ruby-version` to ensure you have the correct versions.
+Please look at the dependencies listed below and ensure you have them installed locally. Take a look at the `Gemfile` and `.ruby-version` files to ensure you have the correct versions.
 
 Spend 1 hour or less setting this up locally. If you can't complete this, don't worry! You can give instructions to your interviewer to type them in their code editor. This assesment is about your knowledge and team work.
 
@@ -31,7 +31,7 @@ If you change the seed file and wish to seed the database from scratch, run:
 
     bin/rails db:seed:replant
 
-You should also take a look at the [schema.rb file](db/schema.rb) to see the table names, columns, and relationships.
+You should also take a look at the [schema.rb file](db/schema.rb) file to see the table names, columns, and relationships.
 
 ## Tests
 
